@@ -1,0 +1,15 @@
+.myinput {
+  margin: auto;
+  display: block;
+  margin-top: 10px;
+  background-color: #1a6073;
+  border-radius: 10px;
+  border: none;
+  padding: 5px;
+  color: white;
+}
+
+#myheading {
+  color: #1a6073;
+  text-align: center;
+}
